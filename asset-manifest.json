@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Create-a-Responsive-website/static/css/main.331511b6.css",
+    "main.js": "/Create-a-Responsive-website/static/js/main.51f013bf.js",
+    "static/js/453.9c5d69c4.chunk.js": "/Create-a-Responsive-website/static/js/453.9c5d69c4.chunk.js",
+    "static/media/logo.svg": "/Create-a-Responsive-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Create-a-Responsive-website/index.html",
+    "main.331511b6.css.map": "/Create-a-Responsive-website/static/css/main.331511b6.css.map",
+    "main.51f013bf.js.map": "/Create-a-Responsive-website/static/js/main.51f013bf.js.map",
+    "453.9c5d69c4.chunk.js.map": "/Create-a-Responsive-website/static/js/453.9c5d69c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.331511b6.css",
+    "static/js/main.51f013bf.js"
+  ]
+}
